@@ -1,2 +1,2 @@
 # TDRAPM
-Basic Time Decay RAPM Im Doing for other projects I do privately
+Just Basic TDRAPM I do for other projects im working on
